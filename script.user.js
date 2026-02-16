@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Test
 // @namespace    dev.wiing.test
-// @version      3.0.0
+// @version      4.0.0
 // @description  A helper script to highlight a destination from the travel url
 // @author       BLOODWIING[3891894]
 // @license      MIT
