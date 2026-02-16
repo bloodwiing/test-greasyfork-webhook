@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Travel Destination Indicator
-// @namespace    dev.wiing.traveldestination
-// @version      1.1.0
+// @name         Test
+// @namespace    dev.wiing.test
+// @version      2.0.0
 // @description  A helper script to highlight a destination from the travel url
 // @author       BLOODWIING[3891894]
 // @license      MIT
